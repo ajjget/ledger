@@ -13,13 +13,11 @@ The purpose of this application is to provide a quick and easy way for users to 
 
 ## Initial ERD
 
-<img width="1276" height="603" alt="image" src="https://github.com/user-attachments/assets/d53dd0f1-ee7e-4305-8af7-b82a85b91c61" />
-
+<img width="1327" height="607" alt="image" src="https://github.com/user-attachments/assets/10a9932f-8377-4752-af03-19d3f9d30ecc" />
 
 ## System Design
 
 <img width="657" height="617" alt="image" src="https://github.com/user-attachments/assets/08cd84d8-6645-41f4-be58-52df63473824" />
-
 
 ## Initial Daily Goals
 
