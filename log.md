@@ -8,5 +8,7 @@
 | 4/1/26  | Initial DB set-up                 | 1 |
 | 4/3/26  | Review AI code and test Expo Go | 1.5 |
 | 4/6/26  | Set up login/register files with some components | 1 |
+| 4/8/26  | Collaborated and presented in class | 1.25 |
+| 4/8/26  | Worked on different tabs | .5 |
 
-### Total: 12.5 Hours
+### Total: 14.25 Hours
