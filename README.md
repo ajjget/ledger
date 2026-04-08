@@ -17,7 +17,8 @@ The purpose of this application is to provide a quick and easy way for users to 
 
 ## System Design
 
-<img width="657" height="617" alt="image" src="https://github.com/user-attachments/assets/08cd84d8-6645-41f4-be58-52df63473824" />
+<img width="648" height="616" alt="image" src="https://github.com/user-attachments/assets/e0d9a1ce-2aa3-467f-870a-fc84244e21c5" />
+
 
 ## Initial Daily Goals
 
