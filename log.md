@@ -11,5 +11,6 @@
 | 4/6/26  | Set up login/register files with some components | 1 |
 | 4/8/26  | Collaborated and presented in class | 1.25 |
 | 4/8/26  | Worked on different tabs | .5 |
+| 4/13/26 | Plaid research | .5 |
 
-### Total: 15.25 Hours
+### Total: 15.75 Hours
