@@ -1,5 +1,6 @@
 | Date    | What                              | Hours |
 |---------|-----------------------------------| ----- |
+| 3/26/26 | Pitched project/listened to others' pitches & presentations | 1 |
 | 3/28/26 | Created ERD                       | .5 |
 | 3/28/26 | Worked on Figma Design            | 4 |
 | 3/30/26 | Finished Project Initial Design   | 1 |
@@ -11,4 +12,4 @@
 | 4/8/26  | Collaborated and presented in class | 1.25 |
 | 4/8/26  | Worked on different tabs | .5 |
 
-### Total: 14.25 Hours
+### Total: 15.25 Hours
