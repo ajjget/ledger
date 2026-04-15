@@ -12,5 +12,6 @@
 | 4/8/26  | Collaborated and presented in class | 1.25 |
 | 4/8/26  | Worked on different tabs | .5 |
 | 4/13/26 | Plaid research | .5 |
+| 4/14/26 | Started writing final report | .5 |
 
-### Total: 15.75 Hours
+### Total: 16.25 Hours
