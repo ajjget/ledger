@@ -8,7 +8,7 @@ Ledger is a budgeting app that notifies a user when they make a purchase and and
 <img width="648" height="616" alt="image" src="https://github.com/user-attachments/assets/c2ad7131-5318-4a87-b023-5bdca89fcec0" />
 
 ### Demo
-
+https://github.com/user-attachments/assets/f086d91d-d2b6-4b6a-ae14-f0a843240f27
 
 ### What I learned
 1. How to set up a project with Expo Go
