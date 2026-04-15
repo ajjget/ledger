@@ -13,5 +13,6 @@
 | 4/8/26  | Worked on different tabs | .5 |
 | 4/13/26 | Plaid research | .5 |
 | 4/14/26 | Started writing final report | .5 |
+| 4/15/26 | Attended Class | 1.25 |
 
-### Total: 16.25 Hours
+### Total: 17.5 Hours
